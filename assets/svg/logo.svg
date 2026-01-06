@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="16" fill="#0d9488"/>
+  <text x="100" y="106" font-family="Arial" font-size="16" fill="#fff" text-anchor="middle">EXHIBITION</text>
+  <text x="100" y="126" font-family="Arial" font-size="12" fill="#fff" text-anchor="middle">BOOTH RESERVATION</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800">
+  <rect width="1000" height="800" fill="#fff"/>
+  <g>
+    <rect x="40" y="40" width="900" height="700" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="2"/>
+    <text x="80" y="30" font-family="Arial" font-size="22" fill="#111">DIGITAL MARKETING EXPO 2026 - Floorplan</text>
+  </g>
+</svg>
